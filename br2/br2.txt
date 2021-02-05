@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 edit br2 git hub 2:32
+=======
+test br2 3:31
+>>>>>>> branch2
